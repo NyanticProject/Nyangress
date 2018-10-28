@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "946556584626",
+    "firebase_url": "https://nyangress-220707.firebaseio.com",
+    "project_id": "nyangress-220707",
+    "storage_bucket": "nyangress-220707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946556584626:android:d373f08391a38670",
+        "android_client_info": {
+          "package_name": "com.Nyantic.Nyangress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946556584626-3p1279e7b9adg5j574fg22mroa3t73ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbfWwEREf8zs0Vxlprn7WtJMXCtlX4oG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
